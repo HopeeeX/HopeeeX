@@ -17,15 +17,15 @@
 <h2 align="center">Designing & Protoyping</h2>
 <br>
 <div align="center">
-  <img alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
+  <img width="100" height="100" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
 </div>
 <br>
 <h2 align="center">Tech Stack</h2>
 <br>
 <div align="center">
   <img alt="android-studio" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/tech_stack/android_studio.png">
-  <img alt="flutter" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/languages/flutter.png">
-  <img alt="react" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/languages/react.png">
+  <img alt="flutter" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/tech_stack/flutter.png">
+  <img alt="react" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/tech_stack/react.png">
 </div>
 <br>
 <h2 align="center">Connect with me!<h2/>
