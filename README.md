@@ -17,7 +17,7 @@
 <h2 align="center">Designing & Protoyping</h2>
 <br>
 <div align="center">
-  <img width="100" height="100" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
+  <img width="60" height="60" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
 </div>
 <br>
 <h2 align="center">Tech Stack</h2>
@@ -34,7 +34,12 @@
 <a href="mailto:christinemedalla01@gmail.com">
  <img alt="gmail" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/gmail.png" />
 </a> 
- 
+ <a href="https://www.linkedin.com/in/hopeeex/">
+ <img alt="linkedin" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/linkedin.png" />
+</a> 
+ <a href="https://www.instagram.com/hopeeeeeyyy/">
+ <img alt="instagram" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/linkedin.png" />
+</a> 
 </div>
   
   <br>
