@@ -5,6 +5,7 @@
 <h1 align="center">Frontend Developer | UI Designer </h1>
 <br>
 <p align="center">A Frontend Developer and UI Designer of applications of different platforms, passionate in learning new development <br> frameworks and technology to create impactful and efficient applications and solving problems enabling <br> user-engaging experience and marketable product </p>
+<br>
 
 <h2 align="center">Languages</h2>
 <br>
@@ -15,11 +16,13 @@
   <img alt="javascript" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/languages/js.png">
 </div>
 <br>
+
 <h2 align="center">Designing & Protoyping</h2>
 <br>
 <div align="center">
   <img width="50" height="50" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
 </div>
+
 <h2 align="center">Tech Stack</h2>
 <br>
 <div align="center">
@@ -28,6 +31,7 @@
   <img alt="react" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/tech_stack/react.png">
 </div>
 <br>
+
 <h2 align="center">Connect with me!<h2/>
 <br>
 <div align="center">
@@ -42,6 +46,7 @@
 </a> 
 </div>
 <br>
+ 
 <h2 align="center">Github Stats</h2>
 <br>
 <div align="center">
