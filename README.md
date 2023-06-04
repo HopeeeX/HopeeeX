@@ -17,7 +17,7 @@
 <h2 align="center">Designing & Protoyping</h2>
 <br>
 <div align="center">
-  <img width="60" height="60" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
+  <img width="50" height="50" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
 </div>
 <br>
 <h2 align="center">Tech Stack</h2>
@@ -41,6 +41,11 @@
  <img alt="instagram" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/linkedin.png" />
 </a> 
 </div>
-  
-  <br>
-  <br>
+<br>
+<h2 align="center">Github Stats</h2>
+<br>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+      <img  src="https://github-readme-stats.vercel.app/api?username=HopeeeX&&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="495"/>
+    </a>
+<br>
