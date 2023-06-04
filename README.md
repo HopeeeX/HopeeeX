@@ -19,7 +19,6 @@
 <div align="center">
   <img width="50" height="50" alt="html" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/designing_prototyping/figma.png">
 </div>
-<br>
 <h2 align="center">Tech Stack</h2>
 <br>
 <div align="center">
