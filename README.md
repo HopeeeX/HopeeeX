@@ -38,7 +38,7 @@
  <img alt="linkedin" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/linkedin.png" />
 </a> 
  <a href="https://www.instagram.com/hopeeeeeyyy/">
- <img alt="instagram" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/linkedin.png" />
+ <img alt="instagram" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/icon/contacts/instagram.png" />
 </a> 
 </div>
 <br>
