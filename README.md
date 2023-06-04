@@ -41,8 +41,6 @@
 </a> 
 </div>
 <br>
-<h2 align="center">Github Stats</h2>
-<br>
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img  src="https://github-readme-stats.vercel.app/api?username=HopeeeX&&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="495"/>
