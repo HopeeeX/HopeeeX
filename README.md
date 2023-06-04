@@ -3,7 +3,7 @@
  </div>
  
 <h1 align="center">Frontend Developer | UI Designer </h1>
-<p align="center">A Frontend Developer and UI Designer of applications of different platforms, passionate in learning new development <br> frameworks and technology to create impactful and efficient applications and solving problems enabling user-engaging <br> experience and marketable product </p>
+<p align="center">A Frontend Developer and UI Designer of applications of different platforms, passionate in learning new development <br> frameworks and technology to create impactful and efficient applications and solving problems enabling <br> user-engaging experience and marketable product </p>
 
 <h2 align="center">Languages</h2>
 <br>
