@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <img alt="header" src="https://github.com/HopeeeX/HopeeeX/blob/main/assets/gif/Header.gif">
+ </div>
+ 
+<h1 align="center">Frontend Developer | UI Designer </h1>
+<p align="center">A Frontend Developer and UI Designer of applications of different platforms, passionate in learning new development frameworks and technology to create impactful and efficient applications and solving problems enabling user-engaging experience and marketable product </p>
 
-<!--
-**HopeeeX/HopeeeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Languages</h2>
 
-Here are some ideas to get you started:
+<h2 align="center">Designing & Protoyping</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Tech Stack</h2>
+
+<h2 align="center">Connect with me!<h2/>
+  
+  <br>
+  <br>
